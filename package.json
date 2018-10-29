@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple React + Parcel starter.",
   "scripts": {
-    "start": "parcel public/index.html",
+    "start": "parcel public/index.html --open",
     "build": "parcel build public/index.html"
   },
   "author": "Melanie Seltzer <melleh11@gmail.com>",
